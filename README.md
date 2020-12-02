@@ -1,1 +1,1 @@
-salaryprediction added
+salaryprediction project configured with heroku
